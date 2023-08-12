@@ -1,0 +1,218 @@
+2023-08-09 20:08:42.317 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:08:42.322 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:10:30.825 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:10:30.831 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:11:59.778 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:11:59.783 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:13:14.549 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:13:14.558 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:28:21.631 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:28:21.635 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:29:01.979 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:29:01.984 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:29:25.204 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:29:25.234 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:30:29.833 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:30:29.838 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:31:22.103 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:31:22.107 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:32:18.631 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:32:18.635 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:32:20.842 | INFO     | translator.pdf_translator:translate_pdf:22 - 抱歉，你提供的信息不足以进行翻译。请提供更多的上下文或具体的句子来进行翻译。
+2023-08-09 20:32:20.845 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-09 20:32:20.847 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: files\cse452_sec3_translated.md
+2023-08-09 20:32:20.850 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: files\cse452_sec3_translated.md
+2023-08-09 20:33:16.648 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:33:16.656 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:33:47.411 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:33:47.418 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:34:38.427 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:34:38.436 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:34:41.170 | INFO     | translator.pdf_translator:translate_pdf:22 - None：Paxos实例解析
+2023-08-09 20:34:41.173 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-09 20:34:41.175 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: files\cse452_sec3_translated.md
+2023-08-09 20:34:41.177 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: files\cse452_sec3_translated.md
+2023-08-09 20:50:14.872 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 20:50:14.878 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为None：Paxos by Example
+Umar Javed
+2023-08-09 20:50:24.757 | INFO     | translator.pdf_translator:translate_pdf:22 - I'm sorry, but I'm unable to translate "Paxos by Example" into None as
+2023-08-09 20:50:24.760 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-09 20:50:24.763 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: files\cse452_sec3_translated.md
+2023-08-09 20:50:24.767 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: files\cse452_sec3_translated.md
+2023-08-09 21:06:20.537 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 21:06:20.542 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-09 21:06:22.025 | INFO     | translator.pdf_translator:translate_pdf:22 - Paxos例解
+2023-08-09 21:06:22.028 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-09 21:06:22.031 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: files\cse452_sec3_translated.md
+2023-08-09 21:06:22.035 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: files\cse452_sec3_translated.md
+2023-08-09 21:08:26.561 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-09 21:08:26.566 | DEBUG    | translator.pdf_translator:translate_pdf:20 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-09 21:08:28.041 | INFO     | translator.pdf_translator:translate_pdf:22 - Paxos通过示例
+2023-08-09 21:08:28.043 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-09 21:08:28.046 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-09 21:08:28.280 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:44:50.212 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:45:36.442 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:45:36.446 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:45:37.940 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos实例
+2023-08-10 20:45:37.945 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:45:37.949 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: /files/cse452_sec3_translated.pdf
+2023-08-10 20:46:31.789 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:46:31.792 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:46:33.571 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos by Example（《通过示例学习Paxos算法》）
+2023-08-10 20:46:33.576 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:46:33.580 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:46:33.740 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:46:45.892 | INFO     | app:parsePdf:45 - receive request to parse cse452_sec3.pdf to 日文 from page 1 to page 1.
+2023-08-10 20:46:45.954 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:46:45.958 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为日文：Paxos by Example
+Umar Javed
+2023-08-10 20:46:48.357 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos by Example の翻訳: 
+パクソスの例
+2023-08-10 20:46:48.362 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:46:48.366 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:46:48.530 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:51:37.103 | INFO     | app:parsePdf:45 - receive request to parse cse452_sec3.pdf to 中文 from page 1 to page 1.
+2023-08-10 20:51:37.164 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:51:37.167 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:51:38.869 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos示例
+2023-08-10 20:51:38.875 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:51:38.878 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:51:38.998 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:51:54.682 | INFO     | app:parsePdf:45 - receive request to parse cse452_sec3.pdf to 中文 from page 1 to page 1.
+2023-08-10 20:51:54.740 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:51:54.744 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:51:57.153 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos示例
+2023-08-10 20:51:57.156 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:51:57.158 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:51:57.312 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:53:13.551 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:54:12.195 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:54:12.200 | INFO     | translator.pdf_translator:translate_pdf:23 - -5291157262752956010
+2023-08-10 20:54:12.202 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:54:13.807 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos通过例子
+2023-08-10 20:54:13.810 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:54:13.811 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:54:13.957 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:55:15.123 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:55:15.130 | INFO     | translator.pdf_translator:translate_pdf:23 - -4063625334929957665
+2023-08-10 20:55:15.132 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:55:16.730 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos的例子
+2023-08-10 20:55:16.734 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:55:16.739 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:55:16.918 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:56:09.192 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:56:09.210 | INFO     | translator.pdf_translator:translate_pdf:23 - 3464442607124223679
+2023-08-10 20:56:09.212 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:56:16.458 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos通过例子解释
+2023-08-10 20:56:16.461 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:56:16.462 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:56:16.613 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:56:35.183 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:56:35.188 | INFO     | translator.pdf_translator:translate_pdf:23 - -6667388757791262547
+2023-08-10 20:56:35.190 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:56:37.722 | INFO     | translator.pdf_translator:translate_pdf:29 - "Paxos 透过实例来说明"
+2023-08-10 20:56:37.728 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:56:37.732 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:56:37.909 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:57:23.482 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:58:01.768 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:58:01.772 | INFO     | translator.pdf_translator:translate_pdf:23 - -5427443251222991517
+2023-08-10 20:58:01.774 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:58:03.627 | INFO     | translator.pdf_translator:translate_pdf:29 - Paxos 举例说明
+2023-08-10 20:58:03.633 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:58:03.636 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:58:03.819 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf
+2023-08-10 20:58:12.802 | INFO     | app:parsePdf:45 - receive request to parse cse452_sec3.pdf to 中文 from page 1 to page 1.
+2023-08-10 20:58:12.880 | DEBUG    | translator.pdf_parser:parse_pdf:49 - [raw_text]
+ Paxos by Example
+Umar Javed
+2023-08-10 20:58:12.883 | INFO     | translator.pdf_translator:translate_pdf:23 - -5427443251222991517
+2023-08-10 20:58:12.885 | DEBUG    | translator.pdf_translator:translate_pdf:27 - 翻译为中文：Paxos by Example
+Umar Javed
+2023-08-10 20:58:16.028 | INFO     | translator.pdf_translator:translate_pdf:29 - 《Paxos by Example》（通过示例学习Paxos协议
+2023-08-10 20:58:16.033 | INFO     | translator.writer:_save_translated_book_pdf:29 - pdf_file_path: files\cse452_sec3.pdf
+2023-08-10 20:58:16.037 | INFO     | translator.writer:_save_translated_book_pdf:30 - 开始翻译: files\cse452_sec3_translated.pdf
+2023-08-10 20:58:16.195 | INFO     | translator.writer:_save_translated_book_pdf:77 - 翻译完成: files\cse452_sec3_translated.pdf

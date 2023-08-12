@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Translate Pdf</title>
+</head>
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+
+<body>
+
+    <p>Target Pdf file: <input type="file" name="file" id="file" accept="application/pdf" required="required"></p>
+    <p>From Page: <input id="start" type="number" value=1 />, To Page:<input id="end" type="number" /></p>
+    <p>Target Language: <select id="lang">
+            <option>中文</option>
+            <option>日文</option>
+            <option>英文</option>
+            <option>韩文</option>
+        </select>
+    </p>
+    <button id="btnTranslate">Translate</button> <span id="spanToken"></span>
+    <a id="rslt" href="#" style="display: none;">Download</a>
+    <p style="color:red;display: none;">Error: <span id="spanErr"></span></p>
+    <script>
+
+        $("#btnTranslate").on("click", function () {
+            var file = document.getElementById("file").files[0];
+            if (file == null) {
+                alert("Please select a pdf file.");
+                return false;
+            }
+
+            var fd = new FormData();
+            fd.append("file", document.getElementById("file").files[0]);
+
+            var baseUrl = window.location.origin + window.location.pathname;
+            baseUrl += baseUrl.endsWith("/") ? "" : "/"
+            $.ajax({
+                url: baseUrl + "translate/pdf?start=" + $("#start").val() + "&end=" + $("#end").val() + "&lang=" + $("#lang").val(),
+                type: "POST",
+                data: fd,
+                processData: false,
+                contentType: false,
+                success: function (res) {
+                    $("#btnTranslate").text("Translate");
+                    $("#btnTranslate").removeAttr("disabled");
+                    $("#rslt").attr("href", baseUrl.slice(0, -1) + res.msg);
+                    $("#rslt").show();
+                    $("#spanToken").text(res.token);
+                },
+                error: function (err) {
+                    console.log("AJAX error in request: " + JSON.stringify(err, null, 2));
+                    $("#btnTranslate").text("Translate");
+                    $("#btnTranslate").removeAttr("disabled");
+                    $("#spanErr").show();
+                    $("#spanErr").text(JSON.stringify(err, null, 2))
+                }
+            })
+
+            $(this).attr("disabled", "disabled");
+            $(this).text("processing...");
+            $("#spanErr").hide()
+        })
+
+    </script>
+</body>
+
+</html>
